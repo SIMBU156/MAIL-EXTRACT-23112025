@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Invoice & PO Extractor",
+  "description": "A dashboard simulating a Chrome Extension backend that uses Gemini AI to automatically identify, classify, and extract data (Amount, Sender) from Invoices, POs, and Quotes into Excel.",
+  "requestFramePermissions": []
+}
